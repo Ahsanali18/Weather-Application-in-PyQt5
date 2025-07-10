@@ -22,19 +22,22 @@ Welcome to sleek and intuitive desktop **Weather App** built with **Python** and
 ![image](https://github.com/user-attachments/assets/cd08f59f-2edb-46ac-bbce-d97dba55c618)
 
 ### 🔧 How to Run
-
 1. Clone the repository
+
 2. Install dependencies:
 
-   ```bash
-   pip install PyQt5 requests
-   ```
-3. Replace `api_key` in the script with your [OpenWeatherMap API Key](https://openweathermap.org/api)
+bash
+Copy
+Edit
+pip install PyQt5 requests
+3. Replace api_key in the script with your OpenWeatherMap API Key
+
 4. Run the app:
 
-   ```bash
-   python main.py
-   ```
+bash
+Copy
+Edit
+python main.py
 
 ### 📌 Note:
 * Make sure your internet connection is active while fetching weather data.
