@@ -1,7 +1,7 @@
 # Weather-Application-in-PyQt5
 
 ## 🌤️ Weather App – PyQt5 Desktop Application
-**Hey Viewers**
+**Hey Viewers 👋**
 Welcome to sleek and intuitive desktop **Weather App** built with **Python** and **PyQt5**, allowing users to quickly check real-time weather updates by entering a city name. It fetches data from the **OpenWeatherMap API** and displays temperature, weather condition, and an emoji icon for a visual experience.
 
 ### 🚀 Features
