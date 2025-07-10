@@ -33,7 +33,7 @@ Welcome to sleek and intuitive desktop **Weather App** built with **Python** and
 4. Run the app:
 
    ```bash
-   python weather_app.py
+   python main.py
    ```
 
 ### 📌 Note:
